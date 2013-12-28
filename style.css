@@ -1,0 +1,21 @@
+body {
+	background-color: #E5E5E5;
+}
+h1 {
+	font-family: helvetica, arial, sans-serif;
+	color: #1A1A1A;
+	text-align: center;
+	font-size: 70px;
+}
+p {
+	font-family: helvetica, arial, sans-serif;
+	color: #1A1A1A;
+	font-size: 20px;
+}
+select {
+	font-size: 20px;
+}
+
+input {
+	font-size: 20px;
+}
