@@ -7,15 +7,50 @@ h1 {
 	text-align: center;
 	font-size: 70px;
 }
+
+h2 {
+	font-family: helvetica, arial, sans-serif;
+	text-align:center;
+	color:#1A1A1A;
+	font-size:25px;
+}
+
 p {
 	font-family: helvetica, arial, sans-serif;
 	color: #1A1A1A;
 	font-size: 20px;
 }
+
 select {
 	font-size: 20px;
 }
 
+
+div {
+	background-color:#B8C6E6;
+	border-radius:10%;
+	padding:10px 20px 20px 10px;
+	display:inline-block;
+}
+
 input {
-	font-size: 20px;
+	margin:65px 26px 11px 26px;
+	font-size:50px;
+}
+
+#a{
+	float:left;
+	margin-left:590px;
+}
+
+#b{
+	float:right;
+	margin-right:590px;
+}
+
+#footer{
+	font-size:10px;
+	color:#999999;
+	position:fixed;
+	top:72em;
 }

@@ -86,5 +86,8 @@
 			}
 
 		?>
+
+
+		<p id = "footer">Website created by Jake Bloom, December 2013</p>
 	</body>
 </html>
